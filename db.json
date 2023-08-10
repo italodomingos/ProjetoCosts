@@ -1,0 +1,123 @@
+{
+  "projects": [
+    {
+      "name": "Projeto infraestrutura",
+      "budget": "5000",
+      "category": {
+        "id": "Infraestrutura",
+        "name": "Infraestrutura"
+      },
+      "cost": 1200,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "1200",
+          "description": "teste",
+          "id": "1699c730-b20d-4c14-8d3b-6f02cd733f53"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Projeto desenvolvimento",
+      "budget": "20000",
+      "category": {
+        "id": "Desenvolvimento",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "4000",
+          "description": "teste",
+          "id": "4edf3529-9c6c-41f2-8d43-1a473cf7e5c0"
+        },
+        {
+          "name": "servico 2",
+          "cost": "1000",
+          "description": "teste",
+          "id": "f5b077a9-00d8-4f15-8169-37d778a22f64"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Projeto design",
+      "budget": "6000",
+      "category": {
+        "id": "Design",
+        "name": "Design"
+      },
+      "cost": 2200,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "2200",
+          "description": "teste",
+          "id": "ebdf392c-8ddb-4b9b-a31f-6e9de0219cbf"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto Planejamento",
+      "budget": "3000",
+      "category": {
+        "id": "Planejamento",
+        "name": "Planejamento"
+      },
+      "cost": 2900,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "2900",
+          "description": "teste",
+          "id": "50ca13c0-ae7b-478f-96bc-dd21276f2643"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "job": "Gerente de Projeto",
+      "email": "joao.silva@costs.com",
+      "phone": "(XX) XXXX-XXXX"
+    },
+    {
+      "id": 2,
+      "name": "Maria Santos",
+      "job": "Analista Financeiro",
+      "email": "maria.santos@costs.com",
+      "phone": "(XX) XXXX-XXXX"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rodrigues",
+      "job": "Desenvolvedor Web",
+      "email": "carlos.rodrigues@costs.com",
+      "phone": "(XX) XXXX-XXXX"
+    }
+  ]
+}

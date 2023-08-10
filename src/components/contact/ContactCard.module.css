@@ -1,0 +1,24 @@
+.contact_card {
+  padding: 1em;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 100%;
+  margin: 0.5%;
+}
+
+.contact_card h4 {
+  background-color: black;
+  color: #ffbb33;
+  padding: 0.4em;
+  margin-bottom: 1.3em;
+  font-size: 1.3em;
+}
+
+.contact_card p {
+  color: gray;
+  margin-bottom: 1em;
+}
+
+.contact_card p span {
+  font-weight: bold;
+}
